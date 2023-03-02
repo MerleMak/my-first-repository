@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'ClimateCrisis';
+  src: url(ClimateCrisis-Regular-VariableFont_YEAR.ttf);
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url(Roboto-Regular.ttf);
+}
+
+h1 {
+  font-family: ClimateCrisis;
+}
+
+main {
+  font-family: Roboto;
+}
